@@ -8,7 +8,7 @@
 - Open the frontend folder then double click on index.html 
 - Open .sln file in api folder and run the project in visual studio in "http" mode (not IIS, Docker or any other modes)
 - Also if needed, change in appsettings.json in .Net project to your desired DB connection
-- Download any script(with or withoutData), then open a new query window then copy paste the script contents and run.
+- Download any script(with or withoutData), then open a new query window then copy paste the script contents and run. Make sure to select "master" when running the script.
 
 
 # Project Overview and Features
