@@ -8,6 +8,7 @@
 - Open the frontend folder then double click on index.html 
 - Open .sln file in api folder and run the project in visual studio in "http" mode (not IIS, Docker or any other modes)
 - Also if needed, change in appsettings.json in .Net project to your desired DB connection
+- Download any script(with or withoutData), firstly make sure you have an empty "Employee" database already created on sql server manager, then open a new query window then copy paste the script contents and run. Please select database "Employee" when running the query it might be selected to "master" by default.
 
 # Project Overview and Features
 

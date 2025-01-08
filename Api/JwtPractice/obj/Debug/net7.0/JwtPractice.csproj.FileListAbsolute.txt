@@ -1,0 +1,384 @@
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\appsettings.json
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\JwtPractice.exe
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\JwtPractice.deps.json
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\JwtPractice.runtimeconfig.json
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\JwtPractice.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\JwtPractice.pdb
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Humanizer.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.AssemblyReference.cache
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\JwtPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\JwtPractice.AssemblyInfoInputs.cache
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\JwtPractice.AssemblyInfo.cs
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.CoreCompileInputs.cache
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\JwtPractice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\JwtPractice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.JwtPractice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.build.JwtPractice.props
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JwtPractice.props
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JwtPractice.props
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\scopedcss\bundle\JwtPractice.styles.css
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.CopyComplete
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\JwtPractice.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\refint\JwtPractice.dll
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\JwtPractice.pdb
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\JwtPractice.genruntimeconfig.cache
+C:\Users\labib\source\repos\JwtPractice\JwtPractice\obj\Debug\net7.0\ref\JwtPractice.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\appsettings.Development.json
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\appsettings.json
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\JwtPractice.exe
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\JwtPractice.deps.json
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\JwtPractice.runtimeconfig.json
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\JwtPractice.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\JwtPractice.pdb
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Azure.Core.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Azure.Identity.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Humanizer.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\System.CodeDom.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.AssemblyReference.cache
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.AssemblyInfoInputs.cache
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.AssemblyInfo.cs
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.CoreCompileInputs.cache
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.MvcApplicationPartsAssemblyInfo.cs
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.MvcApplicationPartsAssemblyInfo.cache
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.JwtPractice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.build.JwtPractice.props
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JwtPractice.props
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JwtPractice.props
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets.build.json
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets.development.json
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\scopedcss\bundle\JwtPractice.styles.css
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.CopyComplete
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\refint\JwtPractice.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.pdb
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.genruntimeconfig.cache
+C:\Teralily\zikrApi\zikrBack\JwtPractice\obj\Debug\net7.0\ref\JwtPractice.dll
+C:\Teralily\zikrApi\zikrBack\JwtPractice\bin\Debug\net7.0\RestSharp.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\appsettings.Development.json
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\appsettings.json
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\JwtPractice.exe
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\JwtPractice.deps.json
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\JwtPractice.runtimeconfig.json
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\JwtPractice.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\JwtPractice.pdb
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Azure.Core.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Azure.Identity.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Humanizer.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\RestSharp.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\System.CodeDom.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.AssemblyReference.cache
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.AssemblyInfoInputs.cache
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.AssemblyInfo.cs
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.CoreCompileInputs.cache
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.MvcApplicationPartsAssemblyInfo.cs
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.MvcApplicationPartsAssemblyInfo.cache
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.JwtPractice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.build.JwtPractice.props
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JwtPractice.props
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JwtPractice.props
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets.build.json
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\staticwebassets.development.json
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\scopedcss\bundle\JwtPractice.styles.css
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.CopyComplete
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\refint\JwtPractice.dll
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.pdb
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\JwtPractice.genruntimeconfig.cache
+C:\Teralily\Teralily Official\Api\ZikrBack\JwtPractice\obj\Debug\net7.0\ref\JwtPractice.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.AssemblyReference.cache
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\JwtPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\JwtPractice.AssemblyInfoInputs.cache
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\JwtPractice.AssemblyInfo.cs
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.CoreCompileInputs.cache
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\JwtPractice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\JwtPractice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\JwtPractice.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\refint\JwtPractice.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\JwtPractice.pdb
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\appsettings.json
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\JwtPractice.exe
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\JwtPractice.deps.json
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\JwtPractice.runtimeconfig.json
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\JwtPractice.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\JwtPractice.pdb
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Humanizer.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\RestSharp.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.JwtPractice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.build.JwtPractice.props
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JwtPractice.props
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JwtPractice.props
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\scopedcss\bundle\JwtPractice.styles.css
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.CopyComplete
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\JwtPractice.genruntimeconfig.cache
+C:\Users\labib\Personal Projects\Interview Tasks\EmployeeTask\JwtPractice\obj\Debug\net7.0\ref\JwtPractice.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\appsettings.json
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\JwtPractice.exe
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\JwtPractice.deps.json
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\JwtPractice.runtimeconfig.json
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\JwtPractice.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\JwtPractice.pdb
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Humanizer.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\RestSharp.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.AssemblyReference.cache
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\JwtPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\JwtPractice.AssemblyInfoInputs.cache
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\JwtPractice.AssemblyInfo.cs
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.CoreCompileInputs.cache
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\JwtPractice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\JwtPractice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.JwtPractice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.build.JwtPractice.props
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JwtPractice.props
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JwtPractice.props
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\scopedcss\bundle\JwtPractice.styles.css
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\JwtPractice.csproj.CopyComplete
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\JwtPractice.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\refint\JwtPractice.dll
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\JwtPractice.pdb
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\JwtPractice.genruntimeconfig.cache
+C:\Users\labib\Personal Projects\Interview Tasks\Task submit\EmployeeTask\Api\JwtPractice\obj\Debug\net7.0\ref\JwtPractice.dll
