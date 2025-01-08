@@ -11,7 +11,8 @@
 # Project Overview and Features
 
 - Employee CRUD
-- Can filter employees 
+- Can filter employees
+- Supports Pagination 
 - Can add Multiple Performance Reviews 
 - Showing Average Department Perforcemance score
 
@@ -20,6 +21,7 @@
 
 - Also created a different table "DepartmentAvgScores" to store the calculated averages of all departments so that when the UI is loading it will fetch from here rather than calculating again and again.
 
-- To avoid many recalculations of average scores and Joining tables when showing Employees on the list, "EmployeeListView" table was used, it is readonly table where all the informations are kept which do not require joins and recalculations of averages. 
+- To avoid many recalculations of average scores and Joining tables when showing Employees on the list, "EmployeeListView" table was used, it is readonly table where all the informations are kept which do not require joins and recalculations of averages. The columns of this table was indexes because filterings is done on this table.
+
 
 
