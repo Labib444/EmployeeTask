@@ -7,6 +7,7 @@
 - Use visual studio 2022 and .Net 7.0
 - Open the frontend folder then double click on index.html 
 - Open .sln file in api folder and run the project in visual studio in "http" mode (not IIS, Docker or any other modes)
+- Also if needed, change in appsettings.json in .Net project to your desired DB connection
 
 # Project Overview and Features
 
@@ -21,7 +22,7 @@
 
 - Also created a different table "DepartmentAvgScores" to store the calculated averages of all departments so that when the UI is loading it will fetch from here rather than calculating again and again.
 
-- To avoid many recalculations of average scores and Joining tables when showing Employees on the list, "EmployeeListView" table was used, it is readonly table where all the informations are kept which do not require joins and recalculations of averages. The columns of this table was indexes because filterings is done on this table.
+- To avoid many recalculations of average scores and Joining tables when showing Employees on the list, "EmployeeListView" table was used, it is readonly table where all the informations are kept which do not require joins and recalculations of averages. The columns of this table was indexed because filterings is done on this table.
 
 
 
